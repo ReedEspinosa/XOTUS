@@ -76,3 +76,6 @@ for t = 1:Nbeers
 end
 
 save([fileNm '.mat'])
+
+
+% for t=1:2220; temp = beer(t).Ingredients; kirby{t} = temp
